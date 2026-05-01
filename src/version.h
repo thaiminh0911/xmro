@@ -8,13 +8,13 @@
 #ifndef XMRIG_VERSION_H
 #define XMRIG_VERSION_H
 
-#define APP_ID        "xmrig"
-#define APP_NAME      "XMRig"
-#define APP_DESC      "XMRig miner"
-#define APP_VERSION   "6.26.0"
-#define APP_DOMAIN    "xmrig.com"
-#define APP_SITE      "www.xmrig.com"
-#define APP_COPYRIGHT "Copyright (C) 2016-2026 xmrig.com"
+#define APP_ID        "xmro"
+#define APP_NAME      "xmrO"
+#define APP_DESC      "xmrO miner"
+#define APP_VERSION   "260501-latest"
+#define APP_DOMAIN    "xmro.web3.io"
+#define APP_SITE      "www.web3.io"
+#define APP_COPYRIGHT "Copyright (C) 2026 xmro.web3.io"
 #define APP_KIND      "miner"
 
 #define APP_VER_MAJOR  6
@@ -60,7 +60,7 @@
 #elif defined XMRIG_OS_HAIKU
 #    define APP_OS "Haiku"
 #else
-#    define APP_OS "Unknown OS"
+#    define APP_OS "Miner"
 #endif
 
 #define STR(X) #X
